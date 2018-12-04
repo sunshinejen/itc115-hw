@@ -16,7 +16,7 @@ public class BankAccountMain {
 		reality.withdraw(100);
 		System.out.println(reality.toString());
 		//reality.deposit(500);
-		//System.out.println(reality.balance);
+		//System.out.println(reality.getBalanceFormatted());
 	}
 
 }
